@@ -1,17 +1,17 @@
 # <a href="https://ivanraichev.github.io/Test-for-Affnetix/">One-page website</a>  for online store selling Technics
 
 
-- There is adaptive up to 320px
+- There is adaptive up to 320px.
 - Thanks to gulp build css, js and html files have been converted to faster versions [.min]
-- BEM methodology was used to write the site
-- All images are sorted into folders
+- BEM methodology was used to write the site.
+- All images are sorted into folders.
 
 
 ## Tasks completed in the project
   
-- Layout layout and styling according to the design
-- Adding interactivity to the page using JS/jQuery
-- Adaptability up to 320px
+- Layout layout and styling according to the design.
+- Adding interactivity to the page using JS/jQuery.
+- Adaptability up to 320px.
 
   
 ## Technology
