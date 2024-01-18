@@ -1,4 +1,4 @@
-# <a href="https://ivanraichev.github.io/Test-for-Affnetix/">One-page website</a>  for online store selling Technics
+# <a href="https://ivanraichev.github.io/Test-for-Affnetix/">One-page website</a>  for iGaming Affiliates
 
 
 - There is adaptive up to 320px.
