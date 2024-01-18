@@ -1,3 +1,8 @@
+<p align = "center">
+  <img src = "https://i.ibb.co/2yYvQgF/2024-01-18-192657716.png" alt ="Project logo" width = "726">
+</p>
+
+
 # <a href="https://ivanraichev.github.io/Test-for-Affnetix/">One-page website</a>  for iGaming Affiliates
 
 
